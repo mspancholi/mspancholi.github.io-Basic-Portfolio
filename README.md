@@ -1,2 +1,2 @@
-# mspancholi.github.io-Basic-Portfolio
+# Basic-Portfolio
 Recommended Homework First Week.

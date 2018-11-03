@@ -1,0 +1,75 @@
+
+
+#name {
+    float: left;
+    color: #ffffff; 
+    background: #4aaaa5;
+    border: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 20px; 
+    
+}
+
+#right {
+    float: right;
+    background: #ffffff;
+    color: #cccccc;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-right: 100px;
+    
+    
+    
+}
+
+a {
+color: #777777;
+
+}
+body {
+    width: 960px;
+    background-image: url("../images/gravel.png");
+    background-size: 960px 280px;
+    margin-left: 100x;
+    margin-right: 100px;
+  
+}
+
+header {
+    color:  #4aaaa5;
+    font-size: 25px; 
+    margin-left: 100px;
+    margin-right: 75px;
+    background: white
+    padding: 20px; 
+}
+
+img {
+    float:left;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+p {
+    color: #777777;
+    border-color: #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: #ffffff;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+footer {
+    padding: 20px;
+    border-top: 8px solid #4aaaa5;
+    margin-bottom: 20px;
+    background:  #777777;
+    text-align: center;
+    overflow: auto;
+    
+}
+
